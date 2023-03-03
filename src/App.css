@@ -1,0 +1,65 @@
+.App{
+  background-color:rgb(73, 176, 216);
+}
+
+.to{
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  font-family: Poppin, sans-serif;
+  font-weight: bolder;
+}
+
+.btn{
+  margin-left: 710px;
+  margin-top: 10px;
+  padding: 7px;
+  border-radius: 30px;
+  background-color: rgb(10, 10, 230);
+  color: white;
+  border: none;
+}
+
+.white_body{
+  background-color: rgb(208, 208, 208);
+  height: 600px;
+}
+
+.tasks{
+  margin-left: 150px;
+  font-size: 24px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 40px;
+}
+
+  
+.flex_container{
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+}
+
+.cards{
+  height: 200px;
+  width: 230px;
+  /* border: 1px solid black; */
+  /* display: flex; */
+  gap: 20px;
+  border-top: 6px solid rgb(14, 148, 201);
+  background-color: rgb(118, 114, 108);
+  color: white;
+  font-size: 30px;
+  margin-top: 5px;
+}
+
+.btn_1{
+  background-color: rgb(244, 149, 25);
+  border: none;
+  padding: 6px;
+  font-weight: bold;
+}
+
+/* .icon{
+  color: orange;
+  font-size: 20px;
+} */
