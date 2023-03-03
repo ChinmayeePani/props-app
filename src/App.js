@@ -34,6 +34,7 @@ function App() {
                 <div className="cards">
                  <button className="btn_1">{head[0]}</button>
                 <p>{head[1]}</p>
+                <p>Hi World</p>
                 {/* <BsPencilSquare className="icon"/><RiDeleteBin6Fill className="icon"/> */}
               </div> 
               )
